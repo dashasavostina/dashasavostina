@@ -6,6 +6,7 @@
  <div> :muscle: Люблю принимать вызовы в виде сложных задач </div>
  </div>
 
+
 ### 📦 Мой стек:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
@@ -19,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="expressJS" alt="ExpressJS" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40">
 </div>
+
 
 ### 🏆 Моя статистика:
 
