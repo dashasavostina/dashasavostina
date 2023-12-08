@@ -1,4 +1,5 @@
 ### 👋 Всем привет! Меня зовут Даша, я начинающий фронтендер из Москвы 
+&nbsp
 <div style="display: flex; flex-direction: column">
  <div> :fire: Хочу учиться новому и делаю это каждый день </div>
  <div> :desktop_computer: Обожаю кодить </div>
@@ -21,7 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="expressJS" alt="ExpressJS" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40">
 </div>
-
+&nbsp
+&nbsp
 
 ### 🏆 Моя статистика:
 
