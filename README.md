@@ -19,5 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40">
 </div>
 
- :trophy: ### Моя статистика:
+### 🏆 Моя статистика:
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashasavostina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
